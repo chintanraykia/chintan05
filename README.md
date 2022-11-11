@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chintan05(Chintan Raykia)
-- 👀 I’m interested in software development
+- 👀 I’m interested in Full Stack Software Development()
 - 🌱 I’m currently learning Computer Programming at Algonquin College
-- 💞️ I’m looking to collaborate on an academic project
+- 💞️ I’m looking to collaborate on an Academic project
 - 📫 You can reach out to me on my LinkedIn account: [Chintan Raykia](www.linkedin.com/in/chintan-raykia)
 
 <!---
